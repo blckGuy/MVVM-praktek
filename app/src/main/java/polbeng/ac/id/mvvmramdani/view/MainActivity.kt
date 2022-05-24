@@ -24,7 +24,6 @@ class MainActivity : AppCompatActivity() {
 
         val mhs = mahasiswa("6304191166", "Ramdani", "RPL")
         viewModel.setData(mhs)
-
     }
 }
 
